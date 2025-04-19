@@ -32,3 +32,11 @@ A full-stack demo project combining:
 
 **Author:** Pakkapon Chomchoey (SE#13)  
 **Purpose:** Bootcamp Practice (OSSD#13)
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+© 2025 Pakkapon Chomchoey. All rights reserved.
+
+This project is for educational and personal showcase purposes only.  
+**Commercial use, redistribution, or modification of any part of this project without explicit permission is strictly prohibited.**
